@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#4363d8"/>
+  <text x="50%" y="38%" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="150" font-weight="700" fill="#ffffff">EN</text>
+  <text x="50%" y="62%" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="110" font-weight="700" fill="#f58231">词</text>
+  <text x="50%" y="84%" text-anchor="middle" font-family="system-ui, sans-serif"
+        font-size="56" fill="#dfe6ff">ba·na·na</text>
+</svg>

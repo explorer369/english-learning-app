@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "app": "english-learning-app",
+  "exportedAt": 1718323200000,
+  "words": [
+    {
+      "id": "banana",
+      "spelling": "banana",
+      "normalizedSpelling": "banana",
+      "phonetic": "/bəˈnɑːnə/",
+      "translation": "香蕉",
+      "homophone": "拔那那",
+      "syllables": [
+        { "text": "ba", "colorGroup": 0 },
+        { "text": "na", "colorGroup": 1 },
+        { "text": "na", "colorGroup": 2 }
+      ],
+      "createdAt": 1718323200000,
+      "updatedAt": 1718323200000
+    },
+    {
+      "id": "computer",
+      "spelling": "computer",
+      "normalizedSpelling": "computer",
+      "phonetic": "/kəmˈpjuːtə/",
+      "translation": "电脑；计算机",
+      "homophone": "肯piu特",
+      "syllables": [
+        { "text": "com", "colorGroup": 0 },
+        { "text": "pu", "colorGroup": 1 },
+        { "text": "ter", "colorGroup": 2 }
+      ],
+      "createdAt": 1718323200001,
+      "updatedAt": 1718323200001
+    },
+    {
+      "id": "apple",
+      "spelling": "apple",
+      "normalizedSpelling": "apple",
+      "phonetic": "/ˈæpl/",
+      "translation": "苹果",
+      "homophone": "爱剖",
+      "syllables": [
+        { "text": "ap", "colorGroup": 0 },
+        { "text": "ple", "colorGroup": 1 }
+      ],
+      "createdAt": 1718323200002,
+      "updatedAt": 1718323200002
+    }
+  ]
+}

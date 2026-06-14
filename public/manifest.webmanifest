@@ -1,0 +1,19 @@
+{
+  "name": "英语单词学习",
+  "short_name": "单词学习",
+  "description": "录入单词、按读音拆分着色、音标/谐音/翻译展示与发音，支持词库导入导出，电脑手机通用。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fafafa",
+  "theme_color": "#4363d8",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
